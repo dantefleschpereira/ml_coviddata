@@ -1,0 +1,4 @@
+pandas
+seaborn
+missingno
+git+https://git@github.com/kavgan/word_cloud.git
